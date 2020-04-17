@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="852c0d7e-a327-488c-82ad-4efe7411146a" name="Default Changelist" comment="" />
+    <list default="true" id="852c0d7e-a327-488c-82ad-4efe7411146a" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE0442F8-588F-442E-A292-F0509C7CD4E6/7d/5056ac07/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
@@ -31,14 +34,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1ac3xtiWOEALDpcpbkDbGF8dsA9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -67,8 +73,16 @@
       <option name="presentableId" value="Default" />
       <updated>1587021305826</updated>
       <workItem from="1587021309553" duration="24329000" />
-      <workItem from="1587085017305" duration="2154000" />
+      <workItem from="1587085017305" duration="2557000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1587090355224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587090355224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,12 +92,22 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587043898739">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587043898739" />
+    <state x="1152" y="597" width="350" height="205" key="Github.ShareDialog" timestamp="1587090147623">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1152" y="597" width="350" height="205" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587090147623" />
+    <state x="998" y="404" key="Github.UntrackedFilesDialog" timestamp="1587090167231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="998" y="404" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587090167231" />
     <state x="807" y="284" key="SettingsEditor" timestamp="1587087592181">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
